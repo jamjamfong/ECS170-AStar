@@ -1,6 +1,7 @@
 # ECS170-AStar
 
 PROJECT DESCRIPTION
+
 This is a project for ECS170 Introduction to Artificial Intelligence. Starter code was given, and my code begins in module 2.2. Here, I implement three different heuristics into Dijkstra's algorithm to find the optimal path between two points accross a map with varying terrain. Explanations for each heuristic can be found below. 
 
 
